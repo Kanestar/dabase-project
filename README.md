@@ -132,4 +132,6 @@ You should see the following tables:
 - Proper indexing on frequently queried fields
 - Cascading deletes where appropriate
 - Restrict deletes where data integrity is critical
+
+  ##ERD
   ![image](https://github.com/user-attachments/assets/b69b2589-dc1c-44af-9a58-a2eb84ab76f5)
